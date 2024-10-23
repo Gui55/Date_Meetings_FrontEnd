@@ -1,3 +1,27 @@
 html{
     background-color: #2F004B;
 }
+
+nav{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.nav_first_div{
+    margin-left: 34px;
+    display: flex;
+    align-items: center;
+}
+
+.nav_logo{
+    width: 83px;
+    height: 99px;
+}
+
+.nav_main_title{
+    color: white;
+    margin-left: 48px;
+    font-size: 48px;
+}
