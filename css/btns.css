@@ -1,18 +1,18 @@
 .no-background-ahref{
-    font-size: 48px;
+    font-size: 38px;
     color: white;
     text-decoration: none;
-    margin-right: 52px;
+    margin-right: 41px;
 }
 
 .rose-background-btn{
-    width: 194px;
-    height: 68px;
+    width: 155px;
+    height: 54px;
     background-color: #FF61B6;
     color: black;
-    font-size: 48px;
+    font-size: 38px;
     font-family: 'Akaya Kanadaka', system-ui;
-    border-radius: 25px;
+    border-radius: 20px;
     border: none;
     cursor: pointer;
 }

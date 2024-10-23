@@ -3,19 +3,19 @@ nav{
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    padding: 25px 0 25px 0;
+    padding: 20px 0 20px 0;
     background-color: #2F004B;
 }
 
 .nav-logo{
-    width: 83px;
-    height: 99px;
+    width: 66px;
+    height: 79px;
 }
 
 .nav-main-title{
     color: white;
-    margin-left: 48px;
-    font-size: 48px;
+    margin-left: 38px;
+    font-size: 38px;
     font-weight: 400;
 }
 
