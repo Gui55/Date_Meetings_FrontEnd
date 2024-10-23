@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.presentation-div{
+    flex: 1;
+    background-image: url('../img/Balada.jpeg');
+    background-repeat: no-repeat;
+    background-position: 0% 15%;
+    background-size:cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.presentation-div:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}

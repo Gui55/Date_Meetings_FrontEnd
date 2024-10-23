@@ -1,0 +1,17 @@
+.presentation-div-content{
+    z-index: 1;
+}
+
+h2{
+    color: #FF61B6;
+    font-size: 96px;
+    font-weight: 400;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
