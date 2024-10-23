@@ -5,18 +5,18 @@ nav{
     margin-top: 25px;
 }
 
-.nav_first_div{
+.nav-first-div{
     margin-left: 34px;
     display: flex;
     align-items: center;
 }
 
-.nav_logo{
+.nav-logo{
     width: 83px;
     height: 99px;
 }
 
-.nav_main_title{
+.nav-main-title{
     color: white;
     margin-left: 48px;
     font-size: 48px;
