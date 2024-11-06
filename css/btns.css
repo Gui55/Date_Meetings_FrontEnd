@@ -8,10 +8,10 @@
 .rose-background-btn{
     width: 155px;
     height: 54px;
-    background-color: #FF61B6;
+    background-color: var(--rose);
     color: black;
     font-size: 38px;
-    font-family: 'Akaya Kanadaka', system-ui;
+    font-family: var(--akaya-font);
     border-radius: 20px;
     border: none;
     cursor: pointer;

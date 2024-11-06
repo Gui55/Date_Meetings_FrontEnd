@@ -3,7 +3,7 @@
 }
 
 h2{
-    color: #FF61B6;
+    color: var(--rose);
     font-size: 76px;
     font-weight: 400;
     text-align: center;
