@@ -1,0 +1,16 @@
+.inputs{
+    margin-top: 51px;
+}
+
+.a_input{
+    margin-top: 33px;
+}
+
+.default-input-layout{
+    display: flex;
+    flex-direction: column;
+}
+
+.birthdate{
+    margin-top: 39px;
+}

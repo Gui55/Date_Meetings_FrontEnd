@@ -1,0 +1,15 @@
+body{
+    background-color: var(--dark-purple);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 64px;
+    font-family: var(--akaya-font);
+    font-weight: 400;
+    color: var(--rose);
+    margin-top: 36px;
+}
