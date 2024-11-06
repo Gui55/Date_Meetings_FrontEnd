@@ -1,5 +1,5 @@
 .inputs{
-    margin-top: 51px;
+    margin-top: 31px;
 }
 
 .a_input{
@@ -13,4 +13,20 @@
 
 .birthdate{
     margin-top: 39px;
+}
+
+.selects{
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.a-select{
+    margin-right: 53px;
+}
+
+.a-btn-spacing{
+    margin-top: 65px;
 }

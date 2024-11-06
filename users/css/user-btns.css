@@ -1,0 +1,12 @@
+.rose-background-user-btn{
+    background-color: var(--rose);
+    color: black;
+    font-size: 38px;
+    font-family: var(--akaya-font);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    width: 436px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}

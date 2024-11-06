@@ -1,0 +1,12 @@
+.default-screen-select{
+    height: 48px;
+    background-color: var(--dark-purple);
+    color: white;
+    border-color: var(--rose);
+    font-family: var(--akaya-font);
+    font-size: 25px;
+    border-radius: 15px;
+    padding-left: 21px;
+    padding-right: 18px;
+}
+

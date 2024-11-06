@@ -4,7 +4,6 @@
     font-size: 25px;
 }
 
-
 .default-label-b{
     color: white;
     font-family: var(--akaya-font);
@@ -21,6 +20,7 @@
     background-color: var(--dark-purple);
     border-radius: 15px;
     border-color: var(--rose);
+    border-style: solid;
     font-family: var(--akaya-font);
     font-size: 25px;
 }
