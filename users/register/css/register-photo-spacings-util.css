@@ -16,15 +16,17 @@ img{
     margin-top: 25px;
 }
 
-.rose-background-little-btn{
+#pick-photo::file-selector-button{
     background-color: var(--rose);
     color: black;
     font-family: var(--akaya-font);
+    font-size: 25px;
     border-radius: 20px;
     border: none;
     cursor: pointer;
     padding: 9px;
     margin-top: 30px;
+    width: 100%;
 }
 
 .main-btn-spacing{
