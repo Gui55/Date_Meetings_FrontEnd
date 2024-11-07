@@ -1,0 +1,35 @@
+.register-two-label{
+    color: white;
+    font-size: 38px;
+}
+
+.option{
+    width: 191px;
+    height: 65px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.male-option{
+    background-color: var(--male-blue);
+}
+
+.female-option{
+    background-color: var(--rose);
+    margin-left: 39px;
+    margin-right: 39px;
+}
+
+.other-option{
+    background-color: var(--other-green);
+}
+
+.radio-style{
+    margin-left: 19px;
+    width: 32px;
+    height: 32px;
+}
