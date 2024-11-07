@@ -1,0 +1,32 @@
+img{
+    border-color: var(--rose);
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 5px;
+    width: 265px;
+    height: 265px;
+    object-fit: contain;
+    margin-top: 30px;
+}
+
+.title-label{
+    color: white;
+    font-size: 38px;
+    font-weight: 400;
+    margin-top: 25px;
+}
+
+.rose-background-little-btn{
+    background-color: var(--rose);
+    color: black;
+    font-family: var(--akaya-font);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    padding: 9px;
+    margin-top: 30px;
+}
+
+.main-btn-spacing{
+    margin-top: 50px;
+}
