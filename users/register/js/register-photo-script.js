@@ -4,6 +4,7 @@ function goToEmailAndPassword(){
 
 const photoPicker = document.getElementById("pick-photo")
 const profilePic = document.getElementById("profile-pic")
+const proceedBtn = document.getElementById("proceed-button")
 
 photoPicker.addEventListener("change", function(){
     const file = this.files[0]
@@ -16,5 +17,6 @@ photoPicker.addEventListener("change", function(){
         }
 
         reader.readAsDataURL(file)
+        proceedBtn.value = "Próximo    >>"
     }
 })
