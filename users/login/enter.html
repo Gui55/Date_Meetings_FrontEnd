@@ -3,9 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../css/reset.css">
+    <link rel="stylesheet" href="../../css/variables.css">
+    <link rel="stylesheet" href="../../css/general-style.css">
+    <link rel="stylesheet" href="../css/user-btns.css">
+    <link rel="stylesheet" href="../../css/default-screen-style.css">
+    <link rel="stylesheet" href="../../css/default-screen-text-style.css">
+    <link rel="stylesheet" href="css/login-utils.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Jura:wght@300..700&display=swap" rel="stylesheet">
     <title>Date Meetings</title>
 </head>
 <body>
-    Login
+    <h1>Login</h1>
+    <div class="fields">
+        <p class="row-element">
+            <label class="default-label-b">Email:</label>
+            <input type="text" class="general-text-input" placeholder="Digite seu email">
+        </p>
+        <p class="row-element">
+            <label class="default-label-b">Senha:</label>
+            <input type="text" class="general-text-input" placeholder="Digite sua senha">
+        </p>
+    </div>
+    <a class="password-forget" href="">Esqueceu sua senha?</a>
+    <input class="btn-spacing rose-background-user-btn" type="button" value="Entrar" onclick="goToPresentation()">
+    <script src="js/login-script.js"></script>
 </body>
 </html>

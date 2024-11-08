@@ -1,0 +1,19 @@
+.fields{
+    margin-top: 60px;
+}
+
+.row-element{
+    margin-top: 33px;
+    display: flex;
+    flex-direction: column;
+}
+
+.password-forget{
+    margin-top: 80px;
+    color: var(--rose);
+    font-size: 25px;
+}
+
+.btn-spacing{
+    margin-top: 80px;
+}
