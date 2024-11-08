@@ -1,3 +1,3 @@
-function goToPresentation(){
+function goToPhoto(){
     window.location.href = "register-photo.html"
 }
