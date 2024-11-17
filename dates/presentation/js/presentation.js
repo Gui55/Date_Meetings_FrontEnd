@@ -8,3 +8,7 @@ if(sessionStorage.getItem("profilePic")){
 if(sessionStorage.getItem("profileName")){
     profileName.innerText = sessionStorage.getItem("profileName")
 }
+
+function goToHome(){
+    window.location.href = "../../../index.html"
+}
